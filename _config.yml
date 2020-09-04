@@ -21,7 +21,7 @@
 title: My development footsteps
 email: oldfoxmoon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-        -#Family, -#Clean code, -#Çàº¹, -#Àç¹Ì, -#»î, -#Minimal life, -#Developer, -#Books 
+        -#Family, -#Clean code, -#Happiness, -#fun, -#Life, -#Minimal, -#Developer, -#Books 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  findcoffee
